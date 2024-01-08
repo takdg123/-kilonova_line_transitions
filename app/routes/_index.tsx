@@ -1,41 +1,29 @@
-import type { MetaFunction } from "@remix-run/node";
 
+import React, { useState } from 'react';
+import NavBar from './navigate';
+import MainFrame from './main';
+import type { MetaFunction } from "@remix-run/node";
+import Footer from "./footer"
 export const meta: MetaFunction = () => {
   return [
-    { title: "New Remix App" },
-    { name: "description", content: "Welcome to Remix!" },
+    { title: "Line Transitions in Kilonova" },
+    { name: "description", content: "Line Transitions in Kilonova" },
   ];
 };
 
-export default function Index() {
+
+const Index: React.FC = () => {
+ 
   return (
-    <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>Welcome to Remix</h1>
-      <ul>
-        <li>
-          <a
-            target="_blank"
-            href="https://remix.run/tutorials/blog"
-            rel="noreferrer"
-          >
-            15m Quickstart Blog Tutorial
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            href="https://remix.run/tutorials/jokes"
-            rel="noreferrer"
-          >
-            Deep Dive Jokes App Tutorial
-          </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
-            Remix Docs
-          </a>
-        </li>
-      </ul>
+    <div>
+      <NavBar value="1"/>
+      <div style={{marginRight: "30px", marginLeft: "30px"}}>
+        <MainFrame/>
+      </div>
+      <Footer/>
     </div>
   );
 }
+
+
+export default Index;

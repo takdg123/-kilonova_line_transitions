@@ -8,8 +8,11 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
+import CSS from "./css/app.css"
+import TableCSS from "./css/table.css"
 
-export const links: LinksFunction = () => [
+export const links: LinksFunction = () => [{ rel: "stylesheet", href: CSS },
+  { rel: "stylesheet", href: TableCSS },
   ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref }] : []),
 ];
 
