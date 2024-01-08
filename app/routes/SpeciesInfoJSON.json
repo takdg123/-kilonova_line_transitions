@@ -1,0 +1,560 @@
+{
+    "Ga I": {
+        "atomic_number": "31",
+        "charge": "0",
+        "element": "Ga",
+        "filename": "Ga_I_31_0_3100"
+    },
+    "Ga II": {
+        "atomic_number": "31",
+        "charge": "1",
+        "element": "Ga",
+        "filename": "Ga_II_31_1_3101"
+    },
+    "Ge I": {
+        "atomic_number": "32",
+        "charge": "0",
+        "element": "Ge",
+        "filename": "Ge_I_32_0_3200"
+    },
+    "Ge II": {
+        "atomic_number": "32",
+        "charge": "1",
+        "element": "Ge",
+        "filename": "Ge_II_32_1_3201"
+    },
+    "As I": {
+        "atomic_number": "33",
+        "charge": "0",
+        "element": "As",
+        "filename": "As_I_33_0_3300"
+    },
+    "Se I": {
+        "atomic_number": "34",
+        "charge": "0",
+        "element": "Se",
+        "filename": "Se_I_34_0_3400"
+    },
+    "Rb I": {
+        "atomic_number": "37",
+        "charge": "0",
+        "element": "Rb",
+        "filename": "Rb_I_37_0_3700"
+    },
+    "Sr I": {
+        "atomic_number": "38",
+        "charge": "0",
+        "element": "Sr",
+        "filename": "Sr_I_38_0_3800"
+    },
+    "Sr II": {
+        "atomic_number": "38",
+        "charge": "1",
+        "element": "Sr",
+        "filename": "Sr_II_38_1_3801"
+    },
+    "Y I": {
+        "atomic_number": "39",
+        "charge": "0",
+        "element": "Y",
+        "filename": "Y_I_39_0_3900"
+    },
+    "Y II": {
+        "atomic_number": "39",
+        "charge": "1",
+        "element": "Y",
+        "filename": "Y_II_39_1_3901"
+    },
+    "Zr I": {
+        "atomic_number": "40",
+        "charge": "0",
+        "element": "Zr",
+        "filename": "Zr_I_40_0_4000"
+    },
+    "Zr II": {
+        "atomic_number": "40",
+        "charge": "1",
+        "element": "Zr",
+        "filename": "Zr_II_40_1_4001"
+    },
+    "Zr III": {
+        "atomic_number": "40",
+        "charge": "2",
+        "element": "Zr",
+        "filename": "Zr_III_40_2_4002"
+    },
+    "Nb I": {
+        "atomic_number": "41",
+        "charge": "0",
+        "element": "Nb",
+        "filename": "Nb_I_41_0_4100"
+    },
+    "Nb II": {
+        "atomic_number": "41",
+        "charge": "1",
+        "element": "Nb",
+        "filename": "Nb_II_41_1_4101"
+    },
+    "Mo I": {
+        "atomic_number": "42",
+        "charge": "0",
+        "element": "Mo",
+        "filename": "Mo_I_42_0_4200"
+    },
+    "Mo II": {
+        "atomic_number": "42",
+        "charge": "1",
+        "element": "Mo",
+        "filename": "Mo_II_42_1_4201"
+    },
+    "Ru I": {
+        "atomic_number": "44",
+        "charge": "0",
+        "element": "Ru",
+        "filename": "Ru_I_44_0_4400"
+    },
+    "Ru II": {
+        "atomic_number": "44",
+        "charge": "1",
+        "element": "Ru",
+        "filename": "Ru_II_44_1_4401"
+    },
+    "Rh I": {
+        "atomic_number": "45",
+        "charge": "0",
+        "element": "Rh",
+        "filename": "Rh_I_45_0_4500"
+    },
+    "Rh II": {
+        "atomic_number": "45",
+        "charge": "1",
+        "element": "Rh",
+        "filename": "Rh_II_45_1_4501"
+    },
+    "Pd I": {
+        "atomic_number": "46",
+        "charge": "0",
+        "element": "Pd",
+        "filename": "Pd_I_46_0_4600"
+    },
+    "Pd II": {
+        "atomic_number": "46",
+        "charge": "1",
+        "element": "Pd",
+        "filename": "Pd_II_46_1_4601"
+    },
+    "Ag I": {
+        "atomic_number": "47",
+        "charge": "0",
+        "element": "Ag",
+        "filename": "Ag_I_47_0_4700"
+    },
+    "Ag II": {
+        "atomic_number": "47",
+        "charge": "1",
+        "element": "Ag",
+        "filename": "Ag_II_47_1_4701"
+    },
+    "Cd I": {
+        "atomic_number": "48",
+        "charge": "0",
+        "element": "Cd",
+        "filename": "Cd_I_48_0_4800"
+    },
+    "Cd II": {
+        "atomic_number": "48",
+        "charge": "1",
+        "element": "Cd",
+        "filename": "Cd_II_48_1_4801"
+    },
+    "In I": {
+        "atomic_number": "49",
+        "charge": "0",
+        "element": "In",
+        "filename": "In_I_49_0_4900"
+    },
+    "In II": {
+        "atomic_number": "49",
+        "charge": "1",
+        "element": "In",
+        "filename": "In_II_49_1_4901"
+    },
+    "Sn I": {
+        "atomic_number": "50",
+        "charge": "0",
+        "element": "Sn",
+        "filename": "Sn_I_50_0_5000"
+    },
+    "Sn II": {
+        "atomic_number": "50",
+        "charge": "1",
+        "element": "Sn",
+        "filename": "Sn_II_50_1_5001"
+    },
+    "Sb I": {
+        "atomic_number": "51",
+        "charge": "0",
+        "element": "Sb",
+        "filename": "Sb_I_51_0_5100"
+    },
+    "Te I": {
+        "atomic_number": "52",
+        "charge": "0",
+        "element": "Te",
+        "filename": "Te_I_52_0_5200"
+    },
+    "Cs I": {
+        "atomic_number": "55",
+        "charge": "0",
+        "element": "Cs",
+        "filename": "Cs_I_55_0_5500"
+    },
+    "Ba I": {
+        "atomic_number": "56",
+        "charge": "0",
+        "element": "Ba",
+        "filename": "Ba_I_56_0_5600"
+    },
+    "Ba II": {
+        "atomic_number": "56",
+        "charge": "1",
+        "element": "Ba",
+        "filename": "Ba_II_56_1_5601"
+    },
+    "La I": {
+        "atomic_number": "57",
+        "charge": "0",
+        "element": "La",
+        "filename": "La_I_57_0_5700"
+    },
+    "La III": {
+        "atomic_number": "57",
+        "charge": "2",
+        "element": "La",
+        "filename": "La_III_57_2_5702"
+    },
+    "Ce II": {
+        "atomic_number": "58",
+        "charge": "1",
+        "element": "Ce",
+        "filename": "Ce_II_58_1_5801"
+    },
+    "Ce III": {
+        "atomic_number": "58",
+        "charge": "2",
+        "element": "Ce",
+        "filename": "Ce_III_58_2_5802"
+    },
+    "Pr II": {
+        "atomic_number": "59",
+        "charge": "1",
+        "element": "Pr",
+        "filename": "Pr_II_59_1_5901"
+    },
+    "Pr III": {
+        "atomic_number": "59",
+        "charge": "2",
+        "element": "Pr",
+        "filename": "Pr_III_59_2_5902"
+    },
+    "Pr IV": {
+        "atomic_number": "59",
+        "charge": "3",
+        "element": "Pr",
+        "filename": "Pr_IV_59_3_5903"
+    },
+    "Nd II": {
+        "atomic_number": "60",
+        "charge": "1",
+        "element": "Nd",
+        "filename": "Nd_II_60_1_6001"
+    },
+    "Nd III": {
+        "atomic_number": "60",
+        "charge": "2",
+        "element": "Nd",
+        "filename": "Nd_III_60_2_6002"
+    },
+    "Nd IV": {
+        "atomic_number": "60",
+        "charge": "3",
+        "element": "Nd",
+        "filename": "Nd_IV_60_3_6003"
+    },
+    "Sm II": {
+        "atomic_number": "62",
+        "charge": "1",
+        "element": "Sm",
+        "filename": "Sm_II_62_1_6201"
+    },
+    "Sm III": {
+        "atomic_number": "62",
+        "charge": "2",
+        "element": "Sm",
+        "filename": "Sm_III_62_2_6202"
+    },
+    "Eu III": {
+        "atomic_number": "63",
+        "charge": "2",
+        "element": "Eu",
+        "filename": "Eu_III_63_2_6302"
+    },
+    "Gd III": {
+        "atomic_number": "64",
+        "charge": "2",
+        "element": "Gd",
+        "filename": "Gd_III_64_2_6402"
+    },
+    "Tb III": {
+        "atomic_number": "65",
+        "charge": "2",
+        "element": "Tb",
+        "filename": "Tb_III_65_2_6502"
+    },
+    "Dy III": {
+        "atomic_number": "66",
+        "charge": "2",
+        "element": "Dy",
+        "filename": "Dy_III_66_2_6602"
+    },
+    "Ho III": {
+        "atomic_number": "67",
+        "charge": "2",
+        "element": "Ho",
+        "filename": "Ho_III_67_2_6702"
+    },
+    "Er II": {
+        "atomic_number": "68",
+        "charge": "1",
+        "element": "Er",
+        "filename": "Er_II_68_1_6801"
+    },
+    "Er III": {
+        "atomic_number": "68",
+        "charge": "2",
+        "element": "Er",
+        "filename": "Er_III_68_2_6802"
+    },
+    "Tm II": {
+        "atomic_number": "69",
+        "charge": "1",
+        "element": "Tm",
+        "filename": "Tm_II_69_1_6901"
+    },
+    "Tm III": {
+        "atomic_number": "69",
+        "charge": "2",
+        "element": "Tm",
+        "filename": "Tm_III_69_2_6902"
+    },
+    "Tm IV": {
+        "atomic_number": "69",
+        "charge": "3",
+        "element": "Tm",
+        "filename": "Tm_IV_69_3_6903"
+    },
+    "Yb II": {
+        "atomic_number": "70",
+        "charge": "1",
+        "element": "Yb",
+        "filename": "Yb_II_70_1_7001"
+    },
+    "Yb III": {
+        "atomic_number": "70",
+        "charge": "2",
+        "element": "Yb",
+        "filename": "Yb_III_70_2_7002"
+    },
+    "Yb IV": {
+        "atomic_number": "70",
+        "charge": "3",
+        "element": "Yb",
+        "filename": "Yb_IV_70_3_7003"
+    },
+    "Lu I": {
+        "atomic_number": "71",
+        "charge": "0",
+        "element": "Lu",
+        "filename": "Lu_I_71_0_7100"
+    },
+    "Lu II": {
+        "atomic_number": "71",
+        "charge": "1",
+        "element": "Lu",
+        "filename": "Lu_II_71_1_7101"
+    },
+    "Lu III": {
+        "atomic_number": "71",
+        "charge": "2",
+        "element": "Lu",
+        "filename": "Lu_III_71_2_7102"
+    },
+    "Hf I": {
+        "atomic_number": "72",
+        "charge": "0",
+        "element": "Hf",
+        "filename": "Hf_I_72_0_7200"
+    },
+    "Hf II": {
+        "atomic_number": "72",
+        "charge": "1",
+        "element": "Hf",
+        "filename": "Hf_II_72_1_7201"
+    },
+    "Ta I": {
+        "atomic_number": "73",
+        "charge": "0",
+        "element": "Ta",
+        "filename": "Ta_I_73_0_7300"
+    },
+    "Ta II": {
+        "atomic_number": "73",
+        "charge": "1",
+        "element": "Ta",
+        "filename": "Ta_II_73_1_7301"
+    },
+    "W I": {
+        "atomic_number": "74",
+        "charge": "0",
+        "element": "W",
+        "filename": "W_I_74_0_7400"
+    },
+    "W II": {
+        "atomic_number": "74",
+        "charge": "1",
+        "element": "W",
+        "filename": "W_II_74_1_7401"
+    },
+    "Re I": {
+        "atomic_number": "75",
+        "charge": "0",
+        "element": "Re",
+        "filename": "Re_I_75_0_7500"
+    },
+    "Re II": {
+        "atomic_number": "75",
+        "charge": "1",
+        "element": "Re",
+        "filename": "Re_II_75_1_7501"
+    },
+    "Os I": {
+        "atomic_number": "76",
+        "charge": "0",
+        "element": "Os",
+        "filename": "Os_I_76_0_7600"
+    },
+    "Os II": {
+        "atomic_number": "76",
+        "charge": "1",
+        "element": "Os",
+        "filename": "Os_II_76_1_7601"
+    },
+    "Ir I": {
+        "atomic_number": "77",
+        "charge": "0",
+        "element": "Ir",
+        "filename": "Ir_I_77_0_7700"
+    },
+    "Ir II": {
+        "atomic_number": "77",
+        "charge": "1",
+        "element": "Ir",
+        "filename": "Ir_II_77_1_7701"
+    },
+    "Pt I": {
+        "atomic_number": "78",
+        "charge": "0",
+        "element": "Pt",
+        "filename": "Pt_I_78_0_7800"
+    },
+    "Pt II": {
+        "atomic_number": "78",
+        "charge": "1",
+        "element": "Pt",
+        "filename": "Pt_II_78_1_7801"
+    },
+    "Pt III": {
+        "atomic_number": "78",
+        "charge": "2",
+        "element": "Pt",
+        "filename": "Pt_III_78_2_7802"
+    },
+    "Au I": {
+        "atomic_number": "79",
+        "charge": "0",
+        "element": "Au",
+        "filename": "Au_I_79_0_7900"
+    },
+    "Au II": {
+        "atomic_number": "79",
+        "charge": "1",
+        "element": "Au",
+        "filename": "Au_II_79_1_7901"
+    },
+    "Au III": {
+        "atomic_number": "79",
+        "charge": "2",
+        "element": "Au",
+        "filename": "Au_III_79_2_7902"
+    },
+    "Hg I": {
+        "atomic_number": "80",
+        "charge": "0",
+        "element": "Hg",
+        "filename": "Hg_I_80_0_8000"
+    },
+    "Hg II": {
+        "atomic_number": "80",
+        "charge": "1",
+        "element": "Hg",
+        "filename": "Hg_II_80_1_8001"
+    },
+    "Tl I": {
+        "atomic_number": "81",
+        "charge": "0",
+        "element": "Tl",
+        "filename": "Tl_I_81_0_8100"
+    },
+    "Pb I": {
+        "atomic_number": "82",
+        "charge": "0",
+        "element": "Pb",
+        "filename": "Pb_I_82_0_8200"
+    },
+    "Pb II": {
+        "atomic_number": "82",
+        "charge": "1",
+        "element": "Pb",
+        "filename": "Pb_II_82_1_8201"
+    },
+    "Bi I": {
+        "atomic_number": "83",
+        "charge": "0",
+        "element": "Bi",
+        "filename": "Bi_I_83_0_8300"
+    },
+    "Th I": {
+        "atomic_number": "90",
+        "charge": "0",
+        "element": "Th",
+        "filename": "Th_I_90_0_9000"
+    },
+    "Th II": {
+        "atomic_number": "90",
+        "charge": "1",
+        "element": "Th",
+        "filename": "Th_II_90_1_9001"
+    },
+    "U I": {
+        "atomic_number": "92",
+        "charge": "0",
+        "element": "U",
+        "filename": "U_I_92_0_9200"
+    },
+    "U II": {
+        "atomic_number": "92",
+        "charge": "1",
+        "element": "U",
+        "filename": "U_II_92_1_9201"
+    }
+}
